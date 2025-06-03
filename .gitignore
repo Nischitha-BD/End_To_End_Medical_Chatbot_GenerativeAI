@@ -136,6 +136,19 @@ ENV/
 env.bak/
 venv.bak/
 
+echo "venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/"
+
+venv310/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 .spyproject
